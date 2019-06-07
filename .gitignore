@@ -105,3 +105,9 @@ venv.bak/
 
 # PyCharm
 .idea/
+
+# Passwords
+/passwords/
+
+# Debug
+/tests/debuging.py
